@@ -1,7 +1,6 @@
 <h1>Hmida project<h1>
 <table>
-<thead>
-  
+<thead> 
 <tr>
   
   

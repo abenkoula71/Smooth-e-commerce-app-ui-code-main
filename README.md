@@ -1,8 +1,4 @@
-# Smooth E-commerce app ui 💯 Day-1 🔥
-
-
-
-
+<h1>Hmida project<h1>
 <table>
 <thead>
   

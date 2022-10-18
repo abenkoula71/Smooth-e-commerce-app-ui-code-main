@@ -1,4 +1,4 @@
-<h1>Hmida7 project<h1>
+<h1>Hmida71 project<h1>
 <table>
 <thead> 
 <tr>

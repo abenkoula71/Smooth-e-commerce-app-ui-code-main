@@ -3,8 +3,7 @@
   <img src="https://user-images.githubusercontent.com/69757558/194782923-64a03c36-c63c-4df8-8100-dbf4627bc888.png" alt="Css Logo" with="200" height="400"/>
   </a> </td></tr>
 </tbody></table>
-<hr><table>
-<thead><tr>  <th align="center">Code Image</th>
+<hr><table><thead><tr>  <th align="center">Code Image</th>
 </tr></thead><tbody><tr>  <td align="center">
   <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/194782927-54af3046-a29f-4b03-af64-7ee2878f9d93.jpg">
   <img src="https://user-images.githubusercontent.com/69757558/194782927-54af3046-a29f-4b03-af64-7ee2878f9d93.jpg" alt="Css Logo" with="200" height="400"/>

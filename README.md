@@ -5,8 +5,7 @@
 </tbody></table>
 <hr><table>
 <thead>
-<tr>
-  <th align="center">Code Image</th>
+<tr>  <th align="center">Code Image</th>
 </tr>
 </thead>
 <tbody>

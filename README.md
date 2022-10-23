@@ -1,5 +1,4 @@
-<h1>Hmida71 project<h1>
-<table> 
+<h1>Hmida71 project<h1><table> 
 <thead> 
 <tr><th align="center">Image Challenge</th>
 </tr>

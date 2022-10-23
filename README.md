@@ -1,5 +1,4 @@
-<h1>Hmida71 project<h1><table><thead><tr><th align="center">Image Challenge</th></tr></thead><tbody><tr>
-  <td align="center">
+<h1>Hmida71 project<h1><table><thead><tr><th align="center">Image Challenge</th></tr></thead><tbody><tr>  <td align="center">
   <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/194782923-64a03c36-c63c-4df8-8100-dbf4627bc888.png">
   <img src="https://user-images.githubusercontent.com/69757558/194782923-64a03c36-c63c-4df8-8100-dbf4627bc888.png" alt="Css Logo" with="200" height="400"/>
   </a>

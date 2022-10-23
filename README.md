@@ -22,7 +22,6 @@
   <th align="center">Code Image</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
   <td align="center">

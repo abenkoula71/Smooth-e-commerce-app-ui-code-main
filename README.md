@@ -9,7 +9,6 @@
   <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/194782927-54af3046-a29f-4b03-af64-7ee2878f9d93.jpg">
   <img src="https://user-images.githubusercontent.com/69757558/194782927-54af3046-a29f-4b03-af64-7ee2878f9d93.jpg" alt="Css Logo" with="200" height="400"/>
   </a>
-
     <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/194782925-c7f30e9c-a0b4-4c14-b642-e4eec72671d8.jpg">
      <img src="https://user-images.githubusercontent.com/69757558/194782925-c7f30e9c-a0b4-4c14-b642-e4eec72671d8.jpg" alt="Css Logo" with="200" height="400"/>
   </a></td></tr>

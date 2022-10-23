@@ -7,8 +7,7 @@
 <thead>
 <tr>  <th align="center">Code Image</th>
 </tr>
-</thead>
-<tbody>
+</thead><tbody>
 <tr>
   <td align="center">
   <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/194782927-54af3046-a29f-4b03-af64-7ee2878f9d93.jpg">
